@@ -28,7 +28,10 @@ notes/
 *.synctex.gz
 
 # Workshop materials not ready for public release
-workshop-2/
-workshop-3/
+# Keep folders but ignore all files inside
+workshop-2/*
+!workshop-2/.gitkeep
+workshop-3/*
+!workshop-3/.gitkeep
 
 .claude
