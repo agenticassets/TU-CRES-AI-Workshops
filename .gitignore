@@ -26,3 +26,9 @@ notes/
 *.out
 *.toc
 *.synctex.gz
+
+# Workshop materials not ready for public release
+workshop-2/
+workshop-3/
+
+.claude

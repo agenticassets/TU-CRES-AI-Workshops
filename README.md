@@ -24,19 +24,23 @@ All seminars are held from **6:00 PM – 8:15 PM** in **Helmerich Hall**, Univer
 *   **Date:** Wednesday, February 4, 2026
 *   **Registration Deadline:** Feb. 1st
 *   **Focus:** Demystifying AI for agents, brokers, and property managers. Practical tools for market research, due diligence, and client communication.
-*   **Reference:** `workshop-1-info.md`, `Introduction-to-using-AI-in-Real-Estate.md`
+*   **Materials:**
+    - [Full Workshop Outline](workshop-1/Introduction-to-using-AI-in-Real-Estate.md) | [PDF](workshop-1/Introduction-to-using-AI-in-Real-Estate.pdf)
+    - [Registration Info](workshop-1/admin/workshop-1-info.md)
+    - [Guided Examples](workshop-1/guided-examples.md) | [PDF](workshop-1/guided-examples.pdf)
+    - Practice Projects: [Listing to Client Packet Builder](workshop-1/example-project-1-listing-to-client-packet-builder.md) | [Lease Document Review](workshop-1/example-project-2-lease-document-quick-review.md)
 
 ### 2. Becoming a Data-Driven Real Estate Decision Maker with AI
 *   **Date:** Wednesday, March 4, 2026
 *   **Registration Deadline:** March 2nd
 *   **Focus:** Moving beyond the basics into data analytics. Portfolio optimization, underwriting, and risk assessment across residential and commercial sectors.
-*   **Reference:** `workshop-2-info.md`
+*   **Status:** Materials coming soon
 
 ### 3. Driving ROI in Real Estate with AI Workflows
 *   **Date:** Wednesday, April 1, 2026
 *   **Registration Deadline:** March 30th
 *   **Focus:** Building repeatable, scalable AI-powered workflows that directly enhance profitability and reduce operational friction.
-*   **Reference:** `workshop-3-info.md`
+*   **Status:** Materials coming soon
 
 ---
 
