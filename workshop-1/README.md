@@ -10,12 +10,11 @@
 
 ## Introduction to using AI in Real Estate (120 min instruction)
 
-| Date & Time | Wednesday, February 4, 2026, 6:00 PM – 8:15 PM |
-|---|---|
-| Location | Helmerich Hall, Room 121, [The University of Tulsa](https://utulsa.edu/) |
-| Instructors | [Cayman N. Seagraves, Ph.D.](https://utulsa.edu/departments/finance-operations-management/cayman-seagraves/) — <mailto:cayman-seagraves@utulsa.edu>  
-[Meagan McCollum, Ph.D.](https://utulsa.edu/people/meagan-mccollum/) — <mailto:meagan-mccollum@utulsa.edu> |
-| Registration | [Sign up here](https://real-estate.utulsa.edu/tu-cres-professional-development-seminars/) |
+- Date & Time: Wednesday, February 4, 2026, 6:00 PM – 8:15 PM
+- Location: Helmerich Hall, Room 121, [The University of Tulsa](https://utulsa.edu/)
+- Instructor: [Cayman N. Seagraves, Ph.D.](https://utulsa.edu/departments/finance-operations-management/cayman-seagraves/) — <mailto:cayman-seagraves@utulsa.edu>
+- Instructor: [Meagan McCollum, Ph.D.](https://utulsa.edu/people/meagan-mccollum/) — <mailto:meagan-mccollum@utulsa.edu>
+- Registration: [Sign up here](https://real-estate.utulsa.edu/tu-cres-professional-development-seminars/)
 
 ### Training Structure
 
