@@ -28,6 +28,7 @@ notes/
 *.synctex.gz
 
 # Workshop materials not ready for public release
+CLAUDE.md
 workshop-1/admin/
 workshop-2/
 workshop-3/
