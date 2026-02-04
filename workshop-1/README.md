@@ -10,17 +10,12 @@
 
 ## Introduction to using AI in Real Estate (120 min instruction)
 
-<div class="meta">
-  <span class="meta-label"><strong>Date & Time:</strong></span>  
-  <span class="meta-content">Wednesday, February 4, 2026, 6:00 PM – 8:15 PM</span>  
-  <span class="meta-label"><strong>Location:</strong></span>  
-  <span class="meta-content">Helmerich Hall, Room 121, <a href="https://utulsa.edu/">The University of Tulsa</a></span>
-  <span class="meta-label"><strong>Instructors:</strong></span>
-  <span class="meta-content"><a href="https://utulsa.edu/departments/finance-operations-management/cayman-seagraves/">Cayman N. Seagraves, Ph.D.</a> | <a href="mailto:cayman-seagraves@utulsa.edu">cayman-seagraves@utulsa.edu</a></span>
-  <span class="meta-content"><a href="https://utulsa.edu/people/meagan-mccollum/">Meagan McCollum, Ph.D.</a> | <a href="mailto:meagan-mccollum@utulsa.edu">meagan-mccollum@utulsa.edu</a></span>
-  <span class="meta-label"><strong>Registration:</strong></span>
-  <span class="meta-content"><a href="https://real-estate.utulsa.edu/tu-cres-professional-development-seminars/">Sign up here</a></span>
-</div>
+| Date & Time | Wednesday, February 4, 2026, 6:00 PM – 8:15 PM |
+|---|---|
+| Location | Helmerich Hall, Room 121, [The University of Tulsa](https://utulsa.edu/) |
+| Instructors | [Cayman N. Seagraves, Ph.D.](https://utulsa.edu/departments/finance-operations-management/cayman-seagraves/) — <mailto:cayman-seagraves@utulsa.edu>  
+[Meagan McCollum, Ph.D.](https://utulsa.edu/people/meagan-mccollum/) — <mailto:meagan-mccollum@utulsa.edu> |
+| Registration | [Sign up here](https://real-estate.utulsa.edu/tu-cres-professional-development-seminars/) |
 
 ### Training Structure
 
