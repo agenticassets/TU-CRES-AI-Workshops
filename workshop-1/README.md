@@ -11,9 +11,9 @@
 ## Introduction to using AI in Real Estate (120 min instruction)
 
 <div class="meta">
-  <span class="meta-label"><strong>Date & Time:</strong></span>
-  <span class="meta-content">Wednesday, February 4, 2026, 6:00 PM – 8:15 PM</span>
-  <span class="meta-label"><strong>Location:</strong></span>
+  <span class="meta-label"><strong>Date & Time:</strong></span>  
+  <span class="meta-content">Wednesday, February 4, 2026, 6:00 PM – 8:15 PM</span>  
+  <span class="meta-label"><strong>Location:</strong></span>  
   <span class="meta-content">Helmerich Hall, Room 121, <a href="https://utulsa.edu/">The University of Tulsa</a></span>
   <span class="meta-label"><strong>Instructors:</strong></span>
   <span class="meta-content"><a href="https://utulsa.edu/departments/finance-operations-management/cayman-seagraves/">Cayman N. Seagraves, Ph.D.</a> | <a href="mailto:cayman-seagraves@utulsa.edu">cayman-seagraves@utulsa.edu</a></span>
