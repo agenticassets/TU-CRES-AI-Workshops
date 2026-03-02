@@ -42,3 +42,7 @@ Join us to strengthen your analytical toolkit and become the kind of data-driven
 ## Workshop Materials
 
 **📚 More details and course materials coming soon.**
+
+### Recommended Resources
+
+- [St. Louis FRED - Federal Reserve Economic Data](https://fred.stlouisfed.org/) - Access to comprehensive economic data including real estate market indicators, housing starts, mortgage rates, and regional economic trends.
